@@ -1,0 +1,9 @@
+{
+  "firebase": "fire-chat-itla",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
